@@ -112,6 +112,6 @@ The malware sample was successfully profiled and attributed to the **DarkGate** 
 ## Author
 
 **Obinna Mbah**
-Cybersecurity Analyst — 10Alytics
-📍 Essen, Germany
+SOC Analyst — 10Alytics
+📍 Gelsenkirchen, Germany
 📅 Date of Investigation: 21 June 2026
